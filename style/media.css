@@ -1,5 +1,4 @@
 
-
 @media all and (max-width: 1143.9px) {
   .container {
     width: 100vw;
@@ -13,7 +12,7 @@
 
   .products__pr1 {
     padding-right: 0;
-}
+  }
 
   .intro__lang-wrap {
     padding-top: 1.6rem;
@@ -33,7 +32,6 @@
     top: -0.3rem;
     right: 1rem;
   }
-
 }
 
 @media all and (max-width: 767.9px) { 
@@ -176,8 +174,7 @@
 
   .preference__mr {
     margin-right: 0;
-}
-
+  }
 }
 
 @media all and (max-width: 575.9px) {
@@ -227,5 +224,4 @@
   .preference__btn {
     width: 100%;
   }
-
 }
